@@ -77,3 +77,8 @@ p.caption{
 	margin-top: 0;
 }
 
+.topnav {
+	background-color: black;
+	overflow: hidden;
+}
+
