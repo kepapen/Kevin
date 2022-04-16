@@ -16,8 +16,8 @@ body{
 header{
 	background-color: royalblue;
 	text-align: center;
-	padding-top: 50px;
-	padding-bottom: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 h1,h2{
@@ -27,13 +27,12 @@ h1,h2{
 /*header styles*/
 header h1{
 	color: white;
-	font-size: 50px;
+	font-size: 30px;
 }
 	
 
 header img{
- border-radius:170px;
- width: 300px;
+ border-radius:50%;
  border: 10px solid white;
 }
 
