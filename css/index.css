@@ -15,7 +15,7 @@ header{
 	padding-bottom: 20px;
 }
 
-h1,h2{
+h1,h2,h3{
 	font-family: monospace;
 }
 
@@ -46,6 +46,10 @@ max-width: 100%;
  	font-size: 30px;
  	color: royalblue;
  	margin: 40px 0 10px;
+ }
+ h3{
+ 	font-size: 1om;
+ 	color: royalblue;
  }
 
 a{
@@ -95,5 +99,4 @@ font-family: monospace;
   border: 7.5px solid royalblue;
   padding-left: 10px;
   margin: 10px;
-  background-color: solid green;
 }
