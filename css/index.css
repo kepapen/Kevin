@@ -1,6 +1,4 @@
-div{
-	
-}
+
 body{
 	margin: 0;
 	font-family: monospace;
@@ -95,8 +93,11 @@ font-family: monospace;
 
  div.about {
  	text-align: left;
- 	word-spacing: 0px;
-  border: 7.5px solid royalblue;
+  border: 5px solid royalblue;
   padding-left: 10px;
   margin: 10px;
+  clear: both;
+  display: table;
+  content: "";
+  max-width: 100%;
 }
