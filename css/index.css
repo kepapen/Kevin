@@ -1,10 +1,5 @@
 div{
-	font-size: 20px;
-    text-align: right;
-    padding-top: 50px;
-    padding-right: 25px;
-    padding-bottom: 20px;
-    word-spacing: 15px;
+	
 }
 body{
 	margin: 0;
@@ -77,9 +72,15 @@ p.caption{
 	margin-top: 0;
 }
 
-.topnav {
+div.topnav {
 	background-color: black;
 	overflow: hidden;
+	font-size: 20px;
+    text-align: right;
+    padding-top: 50px;
+    padding-right: 25px;
+    padding-bottom: 20px;
+    word-spacing: 15px;
 }
 
 .topnav a { 
@@ -91,9 +92,8 @@ font-family: monospace;
  div.about {
  	text-align: left;
  	word-spacing: 0px;
-  border: 15px solid royalblue;
-  padding-top: 0px;
-  padding-bottom: 0px;
+  border: 7.5px solid royalblue;
   padding-left: 10px;
   margin: 10px;
+  background-color: solid green;
 }
