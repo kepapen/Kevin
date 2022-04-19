@@ -27,6 +27,14 @@ header img.logo{
  border: 10px solid white;
 }
 
+header h2{
+	color: white;
+}
+
+header p{
+	color: white;
+}
+
 main{
 	margin: 0 auto;
 	padding: 20px ;
@@ -97,8 +105,4 @@ font-family: monospace;
   clear: both;
   content: "";
   max-width: 100%;
-}
-
-.homepage{
-	color: white;
 }
