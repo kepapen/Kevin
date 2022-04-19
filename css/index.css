@@ -20,17 +20,20 @@ h1,h2,h3{
 /*header styles*/
 header h1{
 	color: white;
-	font-size: 30px;
+	}
+
+header h2,p.header{
+	color: white;
 }
+
 	
 
-header img{
+header img.logo{
  border-radius:50%;
  border: 10px solid white;
 }
 
 main{
-	max-width: 800px;
 	margin: 0 auto;
 	padding: 20px ;
 
@@ -62,6 +65,7 @@ footer{
 	background-color: royalblue;
 	text-align: center;
 	padding: 50px;
+	border-top: solid black 5px;
 }
 footer p{
 	margin: 0;
@@ -97,7 +101,6 @@ font-family: monospace;
   padding-left: 10px;
   margin: 10px;
   clear: both;
-  display: table-cell;
   content: "";
   max-width: 100%;
 }
