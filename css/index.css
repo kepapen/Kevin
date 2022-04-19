@@ -22,12 +22,6 @@ header h1{
 	color: white;
 	}
 
-header h2,p.header{
-	color: white;
-}
-
-	
-
 header img.logo{
  border-radius:50%;
  border: 10px solid white;
@@ -103,4 +97,8 @@ font-family: monospace;
   clear: both;
   content: "";
   max-width: 100%;
+}
+
+.homepage{
+	color: white;
 }
