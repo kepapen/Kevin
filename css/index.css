@@ -121,3 +121,11 @@ div.col{
     box-sizing: border-box;
     margin-top: 20px;
 }
+
+div.disclaimer{
+    background-color:royalblue;
+    padding: 10px;
+    margin: 30px 0px;
+    text-align: center;
+    color: white;
+}
