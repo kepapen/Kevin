@@ -110,3 +110,13 @@ font-family: monospace;
   content: "";
   max-width: 100%;
 }
+
+div.col{
+    position: relative;
+    left: -300px;
+    border: 5px solid royalblue;
+    padding: 10px;
+    margin-left: 300px;
+    width: 1000px;
+    box-sizing: border-box;
+}
