@@ -129,3 +129,8 @@ div.disclaimer{
     text-align: center;
     color: white;
 }
+
+figcaption{
+	text-align: center;
+	font-size: 15px;
+}
